@@ -1,0 +1,6 @@
+{
+  "name": "Luna Beauty Studio - London",
+  "description": "A luxury, bespoke beauty salon website for Luna Beauty Studio in London, featuring WhatsApp appointment booking, service showcases, an interactive gallery lightbox, and accessibility-first responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
